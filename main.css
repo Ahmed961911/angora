@@ -1,0 +1,23 @@
+.pb
+{
+    padding: 25px 85px;
+}
+
+.container h1
+{
+    font-size: 5rem ;
+    font-weight: 700;
+    font-family: "impact";
+    color: #000;
+}
+
+.container p
+{
+    font-size: 2.2rem;
+    font-family: "times new roman";
+}
+
+.container button:hover
+{
+    background-color: #008000 !important;
+}
